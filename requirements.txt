@@ -1,0 +1,4 @@
+matplotlib==3.5.3
+#streamlit
+#numpy
+#matplotlib>=3.9.0
